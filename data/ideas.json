@@ -1,0 +1,245 @@
+{
+  "updated": "2026-11-09T10:21:13+01:00",
+  "weeks": [
+    {
+      "week": "2026-11-09",
+      "ideas": [
+        {
+          "title": "322 800 forintból mennyi marad 2027-ben? Minimálbér, adójóváírás – ezt kell tudnod most",
+          "type": "adat-alapú",
+          "news": "A Pénzügyminisztérium október 27-én benyújtott őszi adócsomagja szerint 2027-től legfeljebb 6 százalékos adójóváírás járna, így a minimálbéresek tényleges szja-terhe 15 százalékról 9 százalékra csökkenne; a kedvezmény a minimálbér kétszereséig fokozatosan fogy el. Közben a 2027-es minimálbérről még nincs megállapodás: a munkáltatók 4 százalékot (bruttó 335 712 forint), a szakszervezetek 14 százalékot (bruttó 367 992 forint) javasolnak, a jelenlegi minimálbér bruttó 322 800 forint. Mindkettő tervezet, illetve tárgyalás alatt áll.",
+          "sources": [
+            {
+              "name": "Economx – Adócsomag 2027 (PwC-elemzés)",
+              "url": "https://www.economx.hu/magyar-gazdasag/2026/11/05/adozas-pwc-vagyonado-reklamado-adokedvezmeny-szja/",
+              "date": "2026-11-05"
+            },
+            {
+              "name": "Portfolio – Minimálbér 2027 számítás (14 napos visszatekintés)",
+              "url": "https://www.portfolio.hu/gazdasag/20261029/minimalber-2027-egy-szamitas-megmutatja-mennyivel-emelne-a-kormany-jovore-a-minimalbert-872792",
+              "date": "2026-10-29"
+            }
+          ],
+          "why_hu": "Kb. 2,5 millió munkavállalót érinthet az alacsonyabb keresetekre szabott adócsökkentés, és a minimálbér-emelés is most dől el – a 20–44 évesek közül sokan pont ebben a bérsávban kezdenek.",
+          "angle": "Kalkulátor-szerű, semleges magyarázó: három béremelési forgatókönyv × a tervezett adójóváírás, egyértelműen jelezve, hogy egyik sem végleges.",
+          "outline": [
+            "Hol tart most a minimálbér-tárgyalás: 4 vs. 14 százalék, mikor jöhet döntés",
+            "Mi az adójóváírás a tervezet szerint, és kire vonatkozik (minimálbér kétszereséig)",
+            "Példaszámítások: minimálbér, 1,5-szeres és kétszeres kereset",
+            "Mit kell tenned (semmit: a munkáltató automatikusan alkalmazná) és mikor érdemes figyelni",
+            "Take away: mire számíts januárban, és mi változhat még"
+          ],
+          "intro": "Ha most bruttó 322 800 forintot keresel, jövőre két dolgon múlik a nettód: mennyivel nő a minimálbér, és átmegy-e a tervezett adójóváírás – mutatjuk, mi hol tart."
+        },
+        {
+          "title": "December 24. idén munkaszüneti nap: mi jár neked, ha mégis dolgozol?",
+          "type": "gyakorlati",
+          "news": "Az Országgyűlés november 3-án 193 igen szavazattal, ellenszavazat és tartózkodás nélkül elfogadta, hogy december 24. már idén munkaszüneti nap legyen december 25. és 26. mellett. A korábban előírt december 12-i ledolgozás elmarad, a boltok többsége zárva lesz (kivétel pl. vendéglátás, szállás, benzinkút, pályaudvari és repülőtéri üzletek), aki pedig aznap dolgozik, dupla munkabért kaphat.",
+          "sources": [
+            {
+              "name": "Telex – December 24. munkaszüneti nap",
+              "url": "https://telex.hu/belfold/2026/11/03/december-24-munkaszunet-parlament-orszaggyules",
+              "date": "2026-11-03"
+            }
+          ],
+          "why_hu": "Szinte minden munkavállalót érint: változik a decemberi beosztás, elmarad egy ledolgozós szombat, a kereskedelemben és vendéglátásban dolgozóknak pedig a bérük is.",
+          "angle": "Gyakorlati Q&A: kinek kell dolgoznia, mi jár érte, mit kérdezz meg a munkáltatódtól a decemberi beosztásnál.",
+          "outline": [
+            "Mi változott pontosan: elfogadott törvény, december 12. nem munkanap",
+            "Ki dolgozhat december 24-én (kivételes ágazatok listája)",
+            "Bér és pótlék: mit jelent a dupla munkabér, mit nézz meg a bérpapíron",
+            "Szabadságtervezés: így jön ki a leghosszabb téli pihenő",
+            "Take away: 3 kérdés a főnöködnek még november végéig"
+          ],
+          "intro": "Eggyel kevesebb ledolgozós szombat, eggyel több szabad nap – de ha a te munkahelyed december 24-én is nyitva van, nem mindegy, mit írnak a bérpapírodra."
+        },
+        {
+          "title": "Senki nem mer felmondani? 10 éves mélyponton a munkahelyváltás – maradj vagy lépj?",
+          "type": "trend/vélemény",
+          "news": "A HR-Evolution 90 céget, összesen több mint 90 ezer munkavállalót vizsgáló felmérése szerint az átlagos fluktuáció a 2022-es 32 százalékról 2025-re 21 százalékra esett, ami tízéves mélypont; 2026-ra kb. 19 százalék várható. Szellemi munkakörökben 10, fizikai munkakörökben 25 százalékos a fluktuáció; a cégek 25 százaléka csökkentett létszámot, 12 százaléka felvételi stopot vezetett be. A minta nem reprezentatív a teljes munkaerőpiacra.",
+          "sources": [
+            {
+              "name": "Világgazdaság – Fluktuáció: már felmondani sem mernek",
+              "url": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/fluktuacio-mar-felmondani-sem-mernek-a-magyar-dolgozok",
+              "date": "2026-11-03"
+            }
+          ],
+          "why_hu": "Sokan érzik most, hogy „kapaszkodnak” a munkahelyükbe; a cikk segít eldönteni, mikor józan óvatosság a maradás, és mikor elszalasztott lehetőség.",
+          "angle": "A nemzetközi „job hugging” jelenség magyar adatokkal: a biztonságérzet és a stagnálás közti egyensúly, ítélkezés nélkül.",
+          "outline": [
+            "A számok: 32-ről 21 százalékra csökkent fluktuáció, mit jelent ez a gyakorlatban",
+            "Miért maradunk: bizonytalanság, kevesebb hirdetés egyes területeken",
+            "A maradás rejtett ára: elmaradó béremelés, megrekedő fejlődés",
+            "Önellenőrző lista: 5 jel, hogy ideje lépni – és 5, hogy most jobb maradni",
+            "Take away: hogyan tartsd nyitva a lehetőségeidet felmondás nélkül"
+          ],
+          "intro": "Ha mostanában többször gondoltad, hogy „majd jövőre váltok”, nem vagy egyedül: a magyar cégeknél tíz éve nem mondtak fel ilyen kevesen."
+        },
+        {
+          "title": "Új munkahely, ugyanannyi pénz? A váltók 57 százaléka nem keresett többet – így tárgyalj okosabban",
+          "type": "gyakorlati",
+          "news": "Az Enloyd 520 szakember és vezető válaszain alapuló kutatása szerint a tavaly munkahelyet váltók 43 százaléka kapott magasabb fizetést, 42 százaléka ugyanannyit, 15 százaléka kevesebbet. A váltás leggyakoribb okai a rossz vezetés (61 százalék), a magasabb fizetés (53 százalék) és a rossz légkör (48 százalék); a válaszadók 32 százaléka aktívan keres állást, 56 százaléka passzívan nyitott a váltásra.",
+          "sources": [
+            {
+              "name": "Economx – Enloyd-kutatás a fehérgalléros munkaerőpiacról",
+              "url": "https://www.economx.hu/magyar-gazdasag/2026/11/06/enloyd-kutatas-munkaeropiac-feher-gallerosok-fizetes-home-office-mentalis-jollet/",
+              "date": "2026-11-06"
+            }
+          ],
+          "why_hu": "Sokan a fizetésemelés reményében váltanának, de az adatok szerint ez nem automatikus – a tárgyaláson és a teljes csomag felmérésén sok múlik.",
+          "angle": "Gyakorlati útmutató: hogyan mérd fel a teljes ajánlatot (bér, juttatás, vezető, rugalmasság), és hogyan tárgyalj, hogy ne a 42 százalékba kerülj.",
+          "outline": [
+            "A kutatás számai: 43 / 42 / 15 százalék",
+            "Miért váltunk valójában: a vezető gyakran fontosabb, mint a pénz",
+            "Ajánlat-összehasonlító: bruttó, juttatások, home office, fejlődés",
+            "Tárgyalási lépések: mikor mondj számot, hogyan indokold",
+            "Take away: 3 mondat, amit érdemes kimondanod az utolsó körön"
+          ],
+          "intro": "Felmondasz, végigcsinálsz három interjúkört, aztán az első bérpapíron ugyanaz a szám áll – a tavaly váltók 42 százalékával pontosan ez történt."
+        },
+        {
+          "title": "Havi 1 millió fizikai munkával? Ezek a valós bérsávok 2026-ban a gyártásban",
+          "type": "adat-alapú",
+          "news": "A Gi Group gyártási bér- és piaci útmutatója szerint a fizikai dolgozók 90 százaléka nyitott a váltásra, 55 százalékuk aktívan keres; akik nem kaptak béremelést, azok 61 százaléka nézelődik. A havi bérsávok a képzetlen fizikai munka bruttó 330–520 ezer forintjától a tapasztalt PLC-technikus akár 1,1 millió forintjáig terjednek; a 13. havi fizetést 87 százalék tartaná fontosnak, de a munkáltatók 13 százaléka adja.",
+          "sources": [
+            {
+              "name": "Pénzcentrum – Fizikai munkák havi 1 millióig (Gi Group Salary & Market Guide 2026)",
+              "url": "https://www.penzcentrum.hu/karrier/20261106/ezekkel-a-fizikai-munkakkal-mar-havi-1-milliot-is-lehet-keresni-tizbol-kilenc-magyar-dolgozo-azonnal-kesz-valtani-1208611",
+              "date": "2026-11-06"
+            }
+          ],
+          "why_hu": "Kézzelfogható viszonyítási pont a kékgalléros álláskeresőknek, és megmutatja, mely szakképesítések emelnek a legtöbbet a fizetésen.",
+          "angle": "Bérsáv-táblázat és „szintlépési térkép”: melyik képesítés, tapasztalat hoz ugrást – a felső sávokat reálisan, nem clickbaitként bemutatva.",
+          "outline": [
+            "Bérsávok munkakörönként: betanított, szakmunkás, technikus",
+            "Mitől jutsz a felső sávba: PLC, karbantartás, műszakvezetés",
+            "Juttatások, amikre figyelj: cafeteria (78 százaléknak fontos), 13. havi",
+            "Váltás vagy belső előrelépés: mit kérdezz rá az interjún",
+            "Take away: a következő képesítés, ami a legtöbbet hozhatja"
+          ],
+          "intro": "Bruttó 330 ezer vagy 1,1 millió forint – ennyi a különbség a gyártásban egy betanított és egy tapasztalt PLC-technikus havi bére között."
+        },
+        {
+          "title": "20 100 euró egy évre: így áll a magyar fizetés Európában – és mit jelent ez, ha külföldre mennél",
+          "type": "adat-alapú",
+          "news": "Az Eurostat 2025-ös adatai szerint a teljes munkaidős egyenértékre számolt átlagos bruttó éves kereset Magyarországon 20 100 euró volt, 8,6 százalékkal több, mint egy évvel korábban (18 500 euró). Az uniós átlag 41 500 euró (+4,3 százalék); a magyar érték ennek 48,4 százaléka, Magyarország a 27 tagállam közül hátulról a harmadik Bulgária és Görögország előtt.",
+          "sources": [
+            {
+              "name": "Portfolio – Eurostat-adatok a magyar fizetésekről",
+              "url": "https://portfolio.hu/gazdasag/20261106/dramai-hirek-erkezetek-a-magyarok-fizeteserol-europa-szegyenpadjan-vagyunk-874736",
+              "date": "2026-11-06"
+            },
+            {
+              "name": "Eunews – European wages rise 4.3%",
+              "url": "https://www.eunews.it/en/2026/11/06/european-wages-rise-4-3-with-italy-lagging-as-spain-pulls-ahead/",
+              "date": "2026-11-06"
+            }
+          ],
+          "why_hu": "Aki külföldi munkán gondolkodik, első körben a bruttó bérkülönbséget látja; a cikk segít a valós összevetésben (megélhetés, adók, lakhatás).",
+          "angle": "Józan összehasonlítás: a bruttó különbség mellé a megélhetési költség és a költözés rejtett tételei – se lebeszélés, se rábeszélés.",
+          "outline": [
+            "Az adat: 20 100 vs. 41 500 euró, és a magyar 8,6 százalékos növekedés",
+            "Miért félrevezető csak a bruttót nézni: adók, lakhatás, árszint",
+            "A legnépszerűbb célországok a táblázatban",
+            "Ellenőrzőlista külföldi ajánlathoz: nettó, lakhatás, utazás, szerződés",
+            "Take away: így számolj, mielőtt elfogadod"
+          ],
+          "intro": "Egy átlagos magyar teljes munkaidős dolgozó egy év alatt bruttó 20 100 eurót keres, egy luxemburgi 85 600-at – de a különbség a zsebedben ennél jóval kisebb is lehet."
+        },
+        {
+          "title": "Akár 3 000 forintos órabér: így válassz jól év végi diákmunkát",
+          "type": "gyakorlati",
+          "news": "A Mind-Diák Szövetkezet vezetője szerint az év végi szezonális diákmunkák órabére 10–20 százalékkal magasabb az állandó állásokénál, egyes pozíciókban bruttó 2 500–3 000 forint is lehet. Viszonyításként a 2026-os minimálbér órabérben 1 856 forint, a garantált bérminimum 2 145 forint, a 25 év alatti diákok pedig havi bruttó 715 765 forintig szja-mentesek.",
+          "sources": [
+            {
+              "name": "Economx – Diákmunka órabérek az év végi szezonban",
+              "url": "https://www.economx.hu/magyar-gazdasag/2026/11/06/diakmunka-oraber-mind-diak/",
+              "date": "2026-11-06"
+            }
+          ],
+          "why_hu": "A pályakezdők és egyetemisták most döntenek a decemberi munkákról; az órabér-viszonyítás és az adómentesség ismerete pénzt jelent.",
+          "angle": "Gyakorlati lista: mit nézz meg egy szezonális hirdetésben, és hogyan tedd a diákmunkát első önéletrajzi tapasztalattá.",
+          "outline": [
+            "Mennyit fizetnek most: 10–20 százalék szezonális felár, 2 500–3 000 forintos csúcsok",
+            "Adómentesség 25 év alatt: mit jelent a gyakorlatban",
+            "Mire figyelj: beosztás, ünnepnapi munka, kifizetés üteme",
+            "Hogyan írd be a CV-be, hogy később is számítson",
+            "Take away: 4 kérdés jelentkezés előtt"
+          ],
+          "intro": "Ha decemberben amúgy is dolgoznál pár hetet, nem mindegy, hogy 1 856 vagy 3 000 forintos órabérért teszed – és jó eséllyel adót sem kell fizetned belőle."
+        },
+        {
+          "title": "Gép olvassa először a CV-det: így jutsz át az AI-szűrőn pályakezdőként",
+          "type": "gyakorlati",
+          "news": "A Northeastern University 8 174 felvételi döntéshozót megkérdező felmérése szerint az önéletrajzokat 54 százalékuk szűri mesterséges intelligenciával (a tech szektorban 83 százalék), és akikre hatott az AI, azok 26 százaléka kevesebb kezdőt vesz fel. Bloomberg-adatok szerint az Egyesült Királyságban az AI-t említő belépő szintű hirdetések száma 2025 eleje óta majdnem megháromszorozódott, miközben a junior állások száma negyedével csökkent.",
+          "sources": [
+            {
+              "name": "Northeastern Global News – AI in the Hiring Room",
+              "url": "https://news.northeastern.edu/2026/11/02/ai-hiring-entry-level-jobs/",
+              "date": "2026-11-02"
+            },
+            {
+              "name": "The Star / Bloomberg – AI skills are make-or-break in UK youth job market",
+              "url": "https://thestar.com.my/tech/tech-news/2026/11/05/ai-skills-are-make-or-break-in-uks-brutal-youth-job-market",
+              "date": "2026-11-05"
+            }
+          ],
+          "why_hu": "A magyar cégek is egyre több automatizált szűrést használnak, a pályakezdőknek pedig most kell megtanulniuk úgy írni, hogy a gép és az ember is értse őket.",
+          "angle": "Lépésről lépésre: AI-barát, de emberi önéletrajz, és hogyan mutasd meg az AI-készségeidet hitelesen.",
+          "outline": [
+            "Mit csinál az AI-szűrő: kulcsszavak, formátum, illeszkedés",
+            "Formátumhibák, amelyek miatt kieshetsz",
+            "Kulcsszavak a hirdetésből – másolás nélkül",
+            "AI-készségek a CV-ben: konkrét eszköz, konkrét eredmény",
+            "Take away: 10 perces ellenőrzés beküldés előtt"
+          ],
+          "intro": "Mielőtt bárki elolvasná a jelentkezésedet, minden második esetben egy algoritmus dönt arról, továbbmegy-e – a tech szektorban tízből nyolcszor."
+        },
+        {
+          "title": "Este 10-kor is válaszolsz a főnöknek? Az adatok szerint ritkán éri meg",
+          "type": "trend/vélemény",
+          "news": "A Fortune által ismertetett, 1 006 amerikai munkavállalót megkérdező Software Finder-felmérés szerint 69 százalék úgy látja, a munkaidőn túli elérhetőség érdemben nem segítette a karrierjét; csak 8 százalék kapott érte előléptetést, 12 százalék béremelést vagy bónuszt. 40 százaléknál romlott a munka–magánélet egyensúly, és 73 százalék szabadság alatt is nézi a munkahelyi üzeneteit. A jelenséget „performative availability” (látványos elérhetőség) néven emlegetik.",
+          "sources": [
+            {
+              "name": "Fortune – Gen Z and performative availability",
+              "url": "https://fortune.com/2026/11/08/gen-z-performative-availability-after-hours-work-promotions-survey/",
+              "date": "2026-11-08"
+            }
+          ],
+          "why_hu": "A hibrid munka miatt a magyar irodai dolgozóknál is elmosódnak a határok; a cikk számokkal ad érvet az egészséges határokhoz.",
+          "angle": "Trendmagyarázó új kifejezéssel + gyakorlati határhúzás, ami nem árt a karriernek.",
+          "outline": [
+            "Mi az a „performative availability”",
+            "A számok: 69 / 8 / 12 százalék – mit hoz és mit visz",
+            "Mi számít valójában az előléptetésnél: eredmény, láthatóság munkaidőben",
+            "Határhúzás a gyakorlatban: státusz, értesítések, megbeszélt elérhetőség",
+            "Take away: egy mondat, amivel kulturáltan jelezheted a határaidat"
+          ],
+          "intro": "Szombat este felvillan egy üzenet a munkahelyi chaten, és te már válaszolsz is – a felmérés szerint tízből csak egy embernek hozott ez valaha előléptetést."
+        },
+        {
+          "title": "Kirúgta az AI, aztán visszahívták: mit tanulhatsz az „AI rebounding” jelenségből?",
+          "type": "trend/vélemény",
+          "news": "Az SHL Fortune által ismertetett felmérése szerint az amerikai válaszadók 19,1 százalékát mesterséges intelligenciával váltották ki, majd visszahívták; a 18–24 évesek körében ez az arány 24 százalék. A visszahívottak 51 százaléka jelentős béremelést kért, 42 százaléka írásos garanciát az állása megtartására, 40 százaléka átláthatóságot az AI használatáról.",
+          "sources": [
+            {
+              "name": "Fortune – AI rebounding",
+              "url": "https://fortune.com/2026/11/09/ai-rebounding-20-us-workers-replaced-higher-pay-job-security/",
+              "date": "2026-11-09"
+            }
+          ],
+          "why_hu": "Az AI miatti állásféltés Magyarországon is téma; ez a trend azt mutatja, hogy az emberi tudás és tapasztalat értéke sok helyen visszaigazolódik – és ez tárgyalási erő.",
+          "angle": "Kiegyensúlyozott, nem riogató trendcikk: mit nem tud kiváltani az AI, és hogyan erősítsd ezeket a készségeidet.",
+          "outline": [
+            "Mi az az „AI rebounding”, és mit mérnek a számok",
+            "Miért hívnak vissza embereket: tapasztalat, ügyfélkapcsolat, minőség",
+            "Mit kértek a visszatérők – és mit kérhetsz te bármikor",
+            "Készségek, amelyek mellett az AI eszköz, nem versenytárs",
+            "Take away: így tedd láthatóvá a pótolhatatlan részét a munkádnak"
+          ],
+          "intro": "Minden ötödik amerikai, akit mesterséges intelligenciával váltottak ki, később visszahívást kapott – és sokan közülük magasabb fizetéssel tértek vissza."
+        }
+      ]
+    }
+  ]
+}
